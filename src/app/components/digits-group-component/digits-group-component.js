@@ -1,4 +1,4 @@
-import { Digit } from "../digit-component/digit-component.js.js";
+import { Digit } from "../digit-component/digit-component.js";
 
 export const DigitsGroup = (arr = ["0", "0"]) => {
   return `

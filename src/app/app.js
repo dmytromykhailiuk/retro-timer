@@ -1,5 +1,5 @@
 import { STATE_TYPES } from "./state-types/state-types.js";
-import { TimeElement } from "./shared/time-component/time-component.js";
+import { TimeElement } from "./components/time-component/time-component.js";
 import { createTimer } from "./timer-controller/timer-controler.js";
 
 let CURRENT_STATE = STATE_TYPES.Start;
